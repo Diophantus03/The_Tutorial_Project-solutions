@@ -8,7 +8,7 @@ Let $f(a)$ and $f(b)$ be two continuous functions.
 $$\min (f(a), f(b)) < u < \max(f(a), f(b))$$
 Then there exists $c \in (a, b)$ such that $f(c) = u$. 
 
-To be simple, the above theorem states that if $$f$$ is a continuous function whose domain contains the interval $[a, b]$, then it takes on any given value between $f(a)$ and $f(b)$ at some point within the interval. 
+To be simple, the above theorem states that if $f$ is a continuous function whose domain contains the interval $[a, b]$, then it takes on any given value between $f(a)$ and $f(b)$ at some point within the interval. 
 
 The above theorem has two crucial corollaries. 
 
