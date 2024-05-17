@@ -6,6 +6,7 @@ This repository contains solutions to the exercises in Patrick Massot's tutorial
 Prove a series of statements from undergraduate real analysis course in Lean 4, culminating in a proof of the intermediate value theorem. 
 
 <h4><u><b>What is Intermediate Value Theorem (IVT)?</b></u></h4>
+
 Let $f(a)$ and $f(b)$ be two continuous functions. 
  
 **Theorem (IVT).** Let $u \in \mathbb{R}$ be such that 
