@@ -5,10 +5,8 @@ This repository contains solutions to the exercises in Patrick Massot's tutorial
 Let $f(a)$ and $f(b)$ be two continuous functions. 
  
 **Theorem (IVT).** Let $u \in \mathbb{R}$ be such that 
-
 $$\min (f(a), f(b)) < u < \max(f(a), f(b))$$
-
-Then there exists $$c \in (a, b)$$ such that $$f(c) = u$$. 
+Then there exists $c \in (a, b)$ such that $f(c) = u$. 
 
 To be simple, the above theorem states that if $$f$$ is a continuous function whose domain contains the interval $[a, b]$, then it takes on any given value between $f(a)$ and $f(b)$ at some point within the interval. 
 
