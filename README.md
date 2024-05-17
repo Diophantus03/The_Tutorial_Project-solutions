@@ -2,6 +2,8 @@
 
 This repository contains solutions to the exercises in Patrick Massot's tutorial (aka "the tutorial project). 
 
+*Goal:* Prove a series of statements from undergraduate real analysis course in Lean 4, culminating in a proof of the intermediate value theorem. 
+
 Let $f(a)$ and $f(b)$ be two continuous functions. 
  
 **Theorem (IVT).** Let $u \in \mathbb{R}$ be such that 
@@ -15,6 +17,3 @@ The above theorem has two crucial corollaries.
 **Corollary (Bolzano's Theorem).** If a continuous function has values of opposite sign inside an interval, then it has a root in that interval
 
 **Corollary.** The image of a continuous function over an interval is itself an interval.
-
-*Goal:* Prove a series of statements from undergraduate real analysis course in Lean, 
-culminating in a proof of the intermediate value theorem. 
